@@ -256,8 +256,7 @@ This project is licensed under the MIT License.
 
 Ravish Kumar
 - Email: ravishrk124@gmail.com
-- LinkedIn: [linkedin.com/in/ravishkumar1224](https://linkedin.com/in/ravishkumar1224)
-- GitHub: [github.com/ravishkumar](https://github.com/ravishkumar)
+
 
 ## 🙏 Acknowledgments
 
