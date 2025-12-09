@@ -1,0 +1,12 @@
+{
+  "text": "te\n\negos \"C(Paciiyof of i\u00e9dleat Sciences\n\nco tat\n\nK ani Shikari\n\nBed Nett sc\n\n5.",
+  "pii_entities": [
+    {
+      "type": "PERSON",
+      "value": "Shikari\n\nBed",
+      "start": 56,
+      "end": 68
+    }
+  ],
+  "pii_count": 1
+}

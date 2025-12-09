@@ -1,0 +1,24 @@
+{
+  "text": "LND00g Ue oiiacys\n\n{Dose [Rome Other Direct\n\nPies 4 pe ory oe 7 n\nSANT Udo s [09\n\nyO To ee ere 6\n\nan\n\nL p=qy\n\"OS (pproveds SF\nTNS hopes [8 Pro\n(aes\n\nanol}\n\nza\npal\n\nae (2,\n\nbest\npanacea\nsiarsea a\n\nate SS SE\n\nWes.\n\naE Ea\n\nPoh sambdpa ft]\nade\n\nPy\n\ne\n\nPa patsobelieeal\nDe ae ey es Bt AS\nen\nPoy]\nrapt\n\nMERE\n7200 Wes ies",
+  "pii_entities": [
+    {
+      "type": "PERSON",
+      "value": "Rome Other",
+      "start": 26,
+      "end": 36
+    },
+    {
+      "type": "PERSON",
+      "value": "Direct\n\nPies",
+      "start": 37,
+      "end": 49
+    },
+    {
+      "type": "PERSON",
+      "value": "Ea\n\nPoh",
+      "start": 216,
+      "end": 223
+    }
+  ],
+  "pii_count": 3
+}

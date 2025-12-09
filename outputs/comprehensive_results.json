@@ -1,0 +1,106 @@
+[
+  {
+    "sample_name": "page_14",
+    "ocr_text": "LND00g Ue oiiacys\n\n{Dose [Rome Other Direct\n\n‘Pies - 4 pe ory oe 7 n\nSANT | Udo s [09\n\nyO To ee ere | 6\n\nan\n\nL p=qy\n\n; \"OS (pproveds SF\nTNS hopes [8 Pro\n(aes\n\n&\n\nanol}\n\nza\n*\n\npal\n\nae (2,\n\nbest * |\npanacea\nsiarsea a\n\nate SS SE\n\nWes.\n\naE Ea\n\nPoh sambdpa ft] |\nade |\n\nPy\n\ne\n\nPa patsobelieeal\nDe ae ey es Bt AS =\n\nen\nPoy]\nrapt\n\nMERE\n7200 Wes ies\n",
+    "ocr_confidence": {
+      "mean_confidence": 31.56923076923077,
+      "median_confidence": 28.0,
+      "min_confidence": 1,
+      "max_confidence": 95,
+      "word_count": 65
+    },
+    "cleaned_text": "LND00g Ue oiiacys\n\n{Dose [Rome Other Direct\n\nPies 4 pe ory oe 7 n\nSANT Udo s [09\n\nyO To ee ere 6\n\nan\n\nL p=qy\n\"OS (pproveds SF\nTNS hopes [8 Pro\n(aes\n\nanol}\n\nza\npal\n\nae (2,\n\nbest\npanacea\nsiarsea a\n\nate SS SE\n\nWes.\n\naE Ea\n\nPoh sambdpa ft]\nade\n\nPy\n\ne\n\nPa patsobelieeal\nDe ae ey es Bt AS\nen\nPoy]\nrapt\n\nMERE\n7200 Wes ies",
+    "cleaning_stats": {
+      "original_length": 342,
+      "cleaned_length": 314,
+      "characters_removed": 28,
+      "original_words": 81,
+      "cleaned_words": 70,
+      "original_lines": 55,
+      "cleaned_lines": 48
+    },
+    "pii_detection": {
+      "text": "LND00g Ue oiiacys\n\n{Dose [Rome Other Direct\n\nPies 4 pe ory oe 7 n\nSANT Udo s [09\n\nyO To ee ere 6\n\nan\n\nL p=qy\n\"OS (pproveds SF\nTNS hopes [8 Pro\n(aes\n\nanol}\n\nza\npal\n\nae (2,\n\nbest\npanacea\nsiarsea a\n\nate SS SE\n\nWes.\n\naE Ea\n\nPoh sambdpa ft]\nade\n\nPy\n\ne\n\nPa patsobelieeal\nDe ae ey es Bt AS\nen\nPoy]\nrapt\n\nMERE\n7200 Wes ies",
+      "pii_entities": [
+        {
+          "type": "PERSON",
+          "value": "Rome Other",
+          "start": 26,
+          "end": 36
+        },
+        {
+          "type": "PERSON",
+          "value": "Direct\n\nPies",
+          "start": 37,
+          "end": 49
+        },
+        {
+          "type": "PERSON",
+          "value": "Ea\n\nPoh",
+          "start": 216,
+          "end": 223
+        }
+      ],
+      "pii_count": 3
+    }
+  },
+  {
+    "sample_name": "page_30",
+    "ocr_text": "Oy PART AS\noats be PEE\nHe SESS 8 eet\neee 8\n\nhee\nua\n\nae dy\n\n4\nid\noe\n\nDept of Paychlaty:*\n\n",
+    "ocr_confidence": {
+      "mean_confidence": 38.40909090909091,
+      "median_confidence": 31.0,
+      "min_confidence": 10,
+      "max_confidence": 95,
+      "word_count": 22
+    },
+    "cleaned_text": "Oy PART AS\noats be PEE\nHe SESS 8 eet\neee 8\n\nhee\nua\n\nae dy\n\n4\nid\noe\n\nDept of Paychlaty:*",
+    "cleaning_stats": {
+      "original_length": 89,
+      "cleaned_length": 87,
+      "characters_removed": 2,
+      "original_words": 22,
+      "cleaned_words": 22,
+      "original_lines": 17,
+      "cleaned_lines": 15
+    },
+    "pii_detection": {
+      "text": "Oy PART AS\noats be PEE\nHe SESS 8 eet\neee 8\n\nhee\nua\n\nae dy\n\n4\nid\noe\n\nDept of Paychlaty:*",
+      "pii_entities": [],
+      "pii_count": 0
+    }
+  },
+  {
+    "sample_name": "page_35",
+    "ocr_text": "te\n\negos \"C(Paciiyof of iédleat ‘Sciences\n\nco tat\n\nK ani Shikari\n\nBed Nett sc\n\n“5. &\n\n",
+    "ocr_confidence": {
+      "mean_confidence": 48.06666666666667,
+      "median_confidence": 40.0,
+      "min_confidence": 6,
+      "max_confidence": 95,
+      "word_count": 15
+    },
+    "cleaned_text": "te\n\negos \"C(Paciiyof of iédleat Sciences\n\nco tat\n\nK ani Shikari\n\nBed Nett sc\n\n5.",
+    "cleaning_stats": {
+      "original_length": 86,
+      "cleaned_length": 80,
+      "characters_removed": 6,
+      "original_words": 16,
+      "cleaned_words": 15,
+      "original_lines": 13,
+      "cleaned_lines": 11
+    },
+    "pii_detection": {
+      "text": "te\n\negos \"C(Paciiyof of iédleat Sciences\n\nco tat\n\nK ani Shikari\n\nBed Nett sc\n\n5.",
+      "pii_entities": [
+        {
+          "type": "PERSON",
+          "value": "Shikari\n\nBed",
+          "start": 56,
+          "end": 68
+        }
+      ],
+      "pii_count": 1
+    }
+  }
+]
